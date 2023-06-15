@@ -14,7 +14,7 @@
 
 This repository contains   **_phase-1, week-1_**  code challenge.You are required to wire down solutions using javascript.You are also expected to create separate javascript files for each of the challenges.
 
-You are can test if your files are working by running  
+You can test if your  javascript files are working by running :  
 
 `node filename.js `  
      
