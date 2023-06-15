@@ -33,5 +33,5 @@ Once done with the tasks to satisfaction you are expected to submit the reposito
 
 
 - This project is authored by **Gathoni Wanjira** - _Software Engineer_.  
-- This project is licensed under the terms of [MIT LICENSE .](https://opensource.org/license/mit/)
+- Licensed under the terms of [MIT LICENSE .](https://opensource.org/license/mit/)
   
